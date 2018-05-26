@@ -1,4 +1,4 @@
-# ReportedSteamUsersBanned
+# SteamUsersBans
 Fetch the vac and games bans of your reported list player on CS:GO
 
 # How to use
